@@ -1,2 +1,2 @@
-# Module-2_Coding
-Peer-graded Assignment: Module 2 Coding Assignment
+# Coursera_class_Asssignments
+Peer-graded Assignments
