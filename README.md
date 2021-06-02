@@ -1,2 +1,2 @@
 # Coursera_class_Asssignments
-Peer-graded Assignments
+Peer-graded Assignments and Personal practice
